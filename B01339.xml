@@ -1,0 +1,1024 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new prognostication, for the year of our redemption, 1678, being the second after bissextile, or leap year. Most curiously and artificially calculated, for all north-Brittain, but more especially (and even according to every typographer's very bound duty) for the latitude and meridian of our most famous city of Bon-Accord. Which stands upon a pleasant lone, whose gallant dykes, are Dee and Done. / by A. R. A.M. an expert mathematician.</title>
+            <author>A. R., mathematician, fl. 1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01339</idno>
+            <idno type="STC">Wing A2240A</idno>
+            <idno type="STC">ESTC R176506</idno>
+            <idno type="EEBO-CITATION">53981598</idno>
+            <idno type="OCLC">ocm 53981598</idno>
+            <idno type="VID">180093</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180093)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2813:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new prognostication, for the year of our redemption, 1678, being the second after bissextile, or leap year. Most curiously and artificially calculated, for all north-Brittain, but more especially (and even according to every typographer's very bound duty) for the latitude and meridian of our most famous city of Bon-Accord. Which stands upon a pleasant lone, whose gallant dykes, are Dee and Done. / by A. R. A.M. an expert mathematician.</title>
+                  <author>A. R., mathematician, fl. 1678.</author>
+               </titleStmt>
+               <extent>[16] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>by John Forbes, printer to the town and colledges,</publisher>
+                  <pubPlace>Printed in Aberdeen :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tightly bound with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English --  Scotland --  17th century.</term>
+               <term>Fairs --  Scotland --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Claire Tolan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180093:1" rendition="simple:additions"/>
+            <p> A NEW <hi>Prognoſtication,</hi> For the Year of our Redemption, 1678 <hi>Being the ſecond after Biſſextile, or Leap Year.</hi>
+            </p>
+            <p>Moſt Curiouſly and Artificially Calculated, for all <hi>North-Brittain;</hi> but more Eſpecially, (and even according to TYPOGRAPHER'S very bound Duty,) for the <hi>Latitude</hi> and <hi>Meridian</hi> of our moſt Famous CITY of BON-ACCORD.</p>
+            <p>
+               <hi>Which stands upon a pleaſant</hi> LONE, <hi>Whoſe gallant Dykes, are</hi> DEE <hi>and</hi> DONE.</p>
+            <p>
+               <hi>By A. R. A. M.</hi> an expert Mathematician.</p>
+            <figure>
+               <figDesc>print of astologer holding model of cosmos</figDesc>
+            </figure>
+            <p>Wherein is contained the whole Fairs exact<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, with the 4 Seaſons <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Year, and foure Termly Quarters, the exact Changes of the <hi>Moon,</hi> and daily Diſ<g ref="char:EOLhyphen"/>poſition of the Wea<g ref="char:EOLhyphen"/>ther; A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo, ſeverall other excellent things of Note, ſo fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as this Volumn could permit <hi>Printed in</hi> ABERDEEN <hi>by</hi> IOHN FORBES, PRINTER <hi>to the</hi> TOWN <hi>and</hi> COLLEDGES, 1678.</p>
+         </div>
+         <div type="list_of_feasts_and_terms">
+            <pb facs="tcp:180093:2"/>
+            <head>
+               <hi>The moveable Feaſts and Terms</hi> 1678.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>The Golden Number, is</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>The Epact</cell>
+                     <cell>17</cell>
+                  </row>
+                  <row>
+                     <cell>The Dominical, or, Sundayes-Letter</cell>
+                     <cell>
+                        <hi>F</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Faſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ns Even, which in <hi>England,</hi> is called Shrove-Tueſday,</cell>
+                     <cell>
+                        <hi>Februar</hi> 12</cell>
+                  </row>
+                  <row>
+                     <cell>Aſh Wedneſday, on the morrow,</cell>
+                     <cell>
+                        <hi>Febr.</hi> 13</cell>
+                  </row>
+                  <row>
+                     <cell>The firſt Sunday of Lent,</cell>
+                     <cell>
+                        <hi>Februar</hi> 16</cell>
+                  </row>
+                  <row>
+                     <cell>Easter, or Paſch-Sunday,</cell>
+                     <cell>
+                        <hi>March</hi> 31</cell>
+                  </row>
+                  <row>
+                     <cell>Whitſunday</cell>
+                     <cell>
+                        <hi>May</hi> 19</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <hi>And betwixt</hi> Candlemas-day, <hi>and</hi> Faſtens-Even's-day <hi>this Year, are but nine dayes. &amp; therfore a good Yea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+         </div>
+         <div type="chronology">
+            <head>A Short Chronologie of remarkable things</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">Year</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Birth of <hi>King CHARLES</hi> the Firſt, of Bleſſed Memorie, 1600.</cell>
+                     <cell>7<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Since the Birth of our Gracious King <hi>CHARLES</hi> the II, <hi>May</hi> 29. <hi>Anno</hi> 1630.</cell>
+                     <cell>4<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Since the Bridge of <hi>Dee</hi> foughten by <hi>Montroſe,</hi> againſt <hi>Iames</hi> Lord of <hi>Aboyn,</hi> and <hi>Collonel Gun, Iune</hi> 9. 1639.</cell>
+                     <cell>3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battle of <hi>Tippermuir, Sept.</hi> 1. 1644.</cell>
+                     <cell>3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battle of <hi>Aberdeen, Sept</hi> 13. 1644.</cell>
+                     <cell>3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battle of <hi>Inverlochie, Febr.</hi> 2. 1645.</cell>
+                     <cell>3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battle of <hi>Old-Erne, May</hi> 9. 1645.</cell>
+                     <cell>3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battle of <hi>Aldford, Iuly</hi> 2. 1645.</cell>
+                     <cell>3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battle of <hi>Kilſyth, Auguſt</hi> 15. 1645.</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battle of <hi>Philiphaugh,</hi> 1645.</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battle of <hi>Preſton,</hi> commonly called the <hi>
+                           <g ref="char:V">Ʋ</g>nlawful Engagement,</hi> 1648.</cell>
+                     <cell>3<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Since the Death of <hi>K. Charles</hi> I. <hi>Ianuar</hi> 30. 1649.</cell>
+                     <cell>29</cell>
+                  </row>
+                  <pb facs="tcp:180093:2"/>
+                  <row>
+                     <cell>Since the <hi>Marques</hi> of <hi>Huntly,</hi> was executed for <hi>Layalty</hi> at <hi>Edinburgh, March</hi> 1649.</cell>
+                     <cell>29</cell>
+                  </row>
+                  <row>
+                     <cell>Since the <hi>Marques</hi> of <hi>Montroſe,</hi> was executed at <hi>Edinburgh</hi> upon the ſame account <hi>May</hi> 1650.</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Since the <hi>Engliſhes</hi> entered <hi>Scotland, Iuly</hi> 22. 1650.</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battle of <hi>Dumbar, Sept.</hi> 3. 1650.</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Caſtle of <hi>Edinburgh</hi> was rendred up to the <hi>Engliſhes, December</hi> 24. <hi>Anno</hi> 1650.</cell>
+                     <cell>28</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Town of <hi>Stirling</hi> was taken in by <hi>Gene<g ref="char:EOLhyphen"/>rall Monk, Iuly</hi> 29. 1651.</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Since the ſtrong Caſtle of <hi>Stirling,</hi> was rendred up to the <hi>Engliſhes, Saterday, Auguſt</hi> 16. 1651.</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Town of <hi>Dundee</hi> was taken in by the <hi>Engliſh-Army,</hi> on <hi>Munday, September</hi> 1. 1651.</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Since the Battle of <hi>Worceſter, Sept.</hi> 3. 1651.</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Since the <hi>Engliſhes</hi> came to <hi>Monroſs, Sep.</hi> 3.</cell>
+                     <cell>27</cell>
+                  </row>
+                  <row>
+                     <cell>Since the <hi>Engliſh-Army</hi> came firſt to <hi>Aberdeen,</hi> after <hi>Dundee</hi> fight, on <hi>ſunday Sept.</hi> 7. 1651.</cell>
+                     <cell>27</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="list_of_eclipses">
+            <head>
+               <hi>Of the Eclipſes this Year,</hi> 1678.</head>
+            <p>
+               <figure>
+                  <figDesc>print of partially eclipsed man-in-the-moon</figDesc>
+               </figure>
+            </p>
+            <p>VVE ſhall have but only one E<g ref="char:EOLhyphen"/>clipſe which will be ſeen of Us in <hi>Brittain,</hi> and that of the <hi>Moon,</hi> falling out upon <hi>Saterday,</hi> the 19 day of <hi>October.</hi> 8 ho. 17 min. at night. The <hi>digits</hi> Eclipſed will be 22. and 18 <hi>ſeconds,</hi> at which time the <hi>Moon</hi> is into the 1 <hi>degree</hi> of <hi>Taurus,</hi> Therefore it being altogether needleſs to mention any more Eclipſes, ſeeing the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cannot effect Us, let other <hi>Nations</hi> then obſerve <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Reſt.</p>
+            <q>
+               <l>For, there's ſome reaſon to judge, that this <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ar,</l>
+               <l>All Things ſhall be Cheap, but Money ſha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be dear.</l>
+            </q>
+         </div>
+         <div type="list_of_seasons">
+            <pb facs="tcp:180093:3"/>
+            <head>
+               <hi>The four Seaſons of the Year,</hi> 1678.</head>
+            <list>
+               <item n="1">
+                  <p>Firſt,</p>
+                  <p>THe Spring-Seaſon, begins on <hi>Sunday, March</hi> 10. 50 min paſt 2 morning. Making our dayes and nights equall.</p>
+               </item>
+               <item n="2">
+                  <p>Second,</p>
+                  <p>SUmmer. Seaſon, begins on <hi>Tueſday, Iune</hi> 11. at which time, our dayes are at the longeſt, and the nights at the ſhorteſt.</p>
+               </item>
+               <item n="3">
+                  <p>Third,</p>
+                  <p>AUtumn, or Harveſt-Seaſon, begins on <hi>Thurſday September</hi> 12. 22 min. paſt 5 afternoon. which makes the day and night equall again to Us.</p>
+               </item>
+               <item n="4">
+                  <p>Fourth,</p>
+                  <p>VVInter-Seaſon, begins on <hi>Wedneſday,</hi> the 11 day of <hi>December,</hi> 10 min. paſt 10 forenoon, which makes the ſhorteſt day, and longeſt night.</p>
+               </item>
+            </list>
+            <p>
+               <hi>Thus much for the four Seaſons of the Year, which the</hi> Vulgar, <hi>through ignorance termeth the four Quarters.</hi>
+            </p>
+         </div>
+         <div type="list_of_termly_quarters">
+            <head>Of the four Termly Quarters of the Year, Never before Inſert into any Almanacks.</head>
+            <p>The firſt Termly Quarter, begins upon <hi>Saterday,</hi> the ſecond day of <hi>Februar,</hi> called <hi>Candlemas day,</hi> and con<g ref="char:EOLhyphen"/>tinueth till the firſt day of <hi>May,</hi> being three moneths juſt.</p>
+            <p>The ſecond Termly Quarter, begins on <hi>Wedneſday,</hi> the firſt day of <hi>May,</hi> tho commonly the <hi>Vulgar</hi> reckon from the 3 day of <hi>May,</hi> called <hi>Rood-day,</hi> which Quar-laſteth till the firſt day of <hi>Auguſt.</hi>
+            </p>
+            <p>The third Quarter begins on <hi>Thurſday, Auguſt</hi> 1. called <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mbas-day,</hi> and continueth till <hi>November</hi> 1 day</p>
+            <p>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urth and laſt Termly Quarter, begins on <hi>Fryday Nov<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ber</hi> 1. day, which is called <hi>Hallow day,</hi> ſo that <hi>Hallo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Even,</hi> this Year, is on <hi>thurſday</hi> at night before: which Quarter laſteth till the 2 day of <hi>February</hi> again.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180093:3"/>
+            <head>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e exact day, hour and minut of the New Moon, her Full and Quarters; with the daily diſpoſition of the Weather; and whole known Fairs in <hi>Scotland,</hi> for the year, 1678.</head>
+            <div type="part">
+               <head>xxxi<g ref="char:punc">▪</g> January begins on Tueſday.</head>
+               <list>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t quarter</hi> 6 <hi>d.</hi> 40 <hi>min paſt</hi> 4 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> moon</hi> 12 <hi>d.</hi> 19 <hi>min. after</hi> 8 <hi>at night.</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t quarter</hi> 19 <hi>d.</hi> 17 <hi>min. paſt</hi> 3 <hi>afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll moon</hi> 27 <hi>d.</hi> 37 <hi>min. paſt</hi> 6 <hi>in the evening.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>This year begins with hail, ſnow, and ſtrong froſt the middle of the moneth, and from thence foggy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ather.</hi>
+               </p>
+               <p>The firſt Fair in the year, is at Kilſyth the 1 day. S. Naugh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, at the Kirk of Betheny, in Gerry, upon the 7 day. S. Mungo Glaſgow the 13 day a Fair, and at Dunkel and Kilwin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng, the 21 day.</p>
+            </div>
+            <div type="part">
+               <head>xxviii. February begins on Friday.</head>
+               <list>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aſt quarter</hi> 4 <hi>d.</hi> 41 <hi>min. paſt</hi> 3 <hi>in the afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ew moon</hi> 11 <hi>d.</hi> 2 <hi>min. paſt</hi> 9 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>irſt quarter</hi> 18 <hi>d.</hi> 24 <hi>min. paſt</hi> 5 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ull moon</hi> 26 <hi>d.</hi> 53 <hi>min. paſt</hi> 11 <hi>in the forenoon.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>The i, and ii, froſt: thence to the vi. ſnow and all: from the vi. to the x. cold North-eaſt winds: hence to the xx more calm: the reſt of the moneth old ſhowres now and then.</hi>
+               </p>
+               <p>At Abernethy and Forres in Murray-land, called S. Brides <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay 1. On Candlemaſs day in Bamff, Dunkell, Dingwall the day. In Cowper of Fife the firſt wedneſday of the moneth.
+<pb facs="tcp:180093:4"/> Valantines day at Linlithgow the 14 day, and at Forfa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 15day holding eight dayes. Aſh wedneſdays Fair beginnet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Faſtens even, at Lanerk the ſame day; at Valley-field the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="part">
+               <head>xxxi. March begins on Friday.</head>
+               <list>
+                  <item>
+                     <hi>Laſt quarter</hi> 6 <hi>d.</hi> 13 <hi>min. paſt</hi> 6 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>New moon</hi> 12 <hi>d.</hi> 39 <hi>min. paſt</hi> 4 <hi>afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter</hi> 20 <hi>d.</hi> 47 <hi>min. paſt</hi> 1 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Full moon</hi> 28 <hi>d.</hi> 26. <hi>min. paſt</hi> 3 <hi>in the morning.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>The firſt viii dayes nipping froſt: thence to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> xii more warm: from xii to xviii variable, the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the xxv ſome ſhowres with ſun-ſhine, the reſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the moneth nipping froſt.</hi>
+               </p>
+               <p>S. Monnence in Aberdeen, Dumfermling, Abercherder, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Marnoch Kirk and Strathaven the 1 day, at Petten-weem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> S. Duthos in Tain of Roſs the 9 day, in Auchtertuil the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> day, S. Cauſnan the 11 day. A fair at Durie the 15 day of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moneth, with a weekly mercat. S. Patrick in Dumbartan, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Kirk of Strageeth and at Kirkaldy, a fair of Horſe, Ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Sheep, <hi>&amp;c.</hi> the 16 day in S. Johnſtoun the 19 day, C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>bert in Langtoun of the Mers the 20 day, Lady day in We<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Weems, Bamff, and Auchtermuchty the 25 day, Palmſund <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at the Kirk of Forrig, and in S. Johnſtoun, and Skeirtburſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Fair is upon thurſday before Goodfriday, at Cowper of Ang<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> otherwiſe Monks Cowper. A Fair in Forres, called S. Mar<g ref="char:punc">▪</g> fair, the firſt tueſday after Eaſter.</p>
+            </div>
+            <div type="part">
+               <head>xxx. April begins on Munday.</head>
+               <list>
+                  <item>
+                     <hi>Laſt quarter</hi> 4 <hi>d.</hi> 31 <hi>min. paſt</hi> 8 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>New moon</hi> 11 <hi>d.</hi> 36 <hi>min paſt</hi> 3 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter</hi> 18 <hi>d.</hi> 19 <hi>min. paſt</hi> 8 <hi>at night.</hi>
+                  </item>
+                  <item>
+                     <hi>Full moon</hi> 26 <hi>d.</hi> 34 <hi>min paſt</hi> 4 <hi>afternoon.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>From the beginning of this moneth to the vii d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pect cold winds witb ſharp ſhowres now and the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thence to the xiv more calm: from the xiv to t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd foggy weather.</hi>
+               </p>
+               <p>A fair at Leſly on tueſday before Easter: in Corſtorphine t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> first tueſday after Eaſter a fair, S. Donald fair at the Kirk <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb facs="tcp:180093:4"/> Achtheles 17 day. Mark Evangel in Dyſert t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e 23 day, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> day the firſt, the 26 day, a fair at Rugland the 28 day con<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ing four dayes, at Leeven the 29 day, and in Kilreny the 30 <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <div type="section">
+                  <head>
+                     <hi>Whiles in</hi> March <hi>and whiles in April.</hi>
+                  </head>
+                  <p>Skeirethurſday before Paſch in Glaſgow, Dumbartan, Cow<g ref="char:EOLhyphen"/>per of Angus, Elgin of Murray, Paſch-mun day in Cowper of Fife, Lanerk, and Irwing, Lowſunday after Paſch in Killimure, and all the week after at the Senzie of St. Andrews.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>xxxi. May begins on Wedneſday.</head>
+               <list>
+                  <item>
+                     <hi>Laſt quarter</hi> 3 <hi>d.</hi> 54 <hi>min. paſt</hi> 1 <hi>afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>New moon</hi> 10 <hi>d.</hi> 6 <hi>min. paſt</hi> 3 <hi>afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter</hi> 18 <hi>d.</hi> 3 <hi>min paſt</hi> 2 <hi>afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Full moon</hi> 26 <hi>d.</hi> 36 <hi>min paſt</hi> 2 <hi>in the morning.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>This moneth begins fair and clear to the viii day? thence to the xvii, ſome thunder and rain; thence to the xx, foggy and miſſy: the reſt pleaſant weather.</hi>
+               </p>
+               <p>The firſt day of May, called S. Philip a fair in the Grange within the Sheriffdom of Linlithgow.</p>
+               <p>Holy-Croſsday the ſecond Beltan, in Monroſs, Kinrocher and in Peebles the 3 day, at Carlouck and Drymen in the Lenox (with a weekly mercat every thurſday) the 10 day, at Bamff and at Kirkaldy, a fair of Horſe, Neat, and Sheep, <hi>&amp;c.</hi> the 16 day, and in Stirling a Fair, 10 dayes before Whitſunday. Aſ<g ref="char:EOLhyphen"/>cenſion day at the Burgh of Annan. A fair at Durie the tueſ<g ref="char:EOLhyphen"/>day before Whitſunday, with a weekly mercat.</p>
+               <div type="section">
+                  <head>
+                     <hi>Whiles in</hi> May <hi>and whiles in</hi> June.</head>
+                  <p>Whitſunm<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>day in Glaſgow, Dumbartan, Lanerk, and Jed<g ref="char:EOLhyphen"/>burgh, Whitſuntueſday called Pardon day, in the Chanry of Roſs, and at the Kirk of Ninians above Kirkaldy, Trinity-munday in Edinburgh and Brichen 8 dayes, in S. Andrews one day, in Bruntiland one day. A fair in Kilſyth the friday before Whitſun<g ref="char:EOLhyphen"/>day. A fair in the Burgh of Linlithgow, the first thurſday after Whitſunday. Trinity tueſday in Rugland laſting 2 dayes. Trini<g ref="char:EOLhyphen"/>ty thurſday in Falkland.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>xxx. June begins on Saturday.</head>
+               <list>
+                  <item>
+                     <hi>Laſt quarter</hi> 1 <hi>d.</hi> 3 <hi>min. paſt</hi> 8 <hi>at night.</hi>
+                  </item>
+                  <item>
+                     <hi>New moon</hi> 9 <hi>d.</hi> 23 <hi>min. paſt</hi> 3 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter</hi> 17 <hi>d.</hi> 41 <hi>min paſt</hi> 5 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Full moon</hi> 24 <hi>d.</hi> 59 <hi>min. paſt</hi> 10 <hi>in the forenoon.</hi>
+                  </item>
+               </list>
+               <pb facs="tcp:180093:5"/>
+               <p> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he firſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dayes exceeding warm: thence to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſome ſoft ſhowres; from the x<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to the end of the moneth, kindly ſummer weather.</hi>
+               </p>
+               <p>A Fair in Kinroſs the firſt tueſday of June, in Longnewton 5 day, and Stramiglo, Aberdour, and Ennerkeithing 6 day, a week<g ref="char:EOLhyphen"/>ly mercat in Forfar, beginning the 8 of June, of Neat, Sheep, Horſe, <hi>&amp;c.</hi> continuing to the firſt of October, a fair in Dry<g ref="char:EOLhyphen"/>men the 9 day, in Forgondenny the 10 S. Barnabie in Lawder and Dyſert, S. Laurence at Grinnock 11 day, the ſame day there is a fair at Dirleton, with a weekly mercat every wedneſday: alſo there is a fair at Preſton-Pans the ſame day, with a week<g ref="char:EOLhyphen"/>ly mercat every tueſday, S. Margaret in Abernethie, Ceres in Fife 13 day, Midſummer on St. Johns day in St. Johnſtoun five dayes, in Air four dayes, in Wigton, Bamff, Athelston and Meiklour in Perth-ſhire, (with a weekly mercat every wed<g ref="char:EOLhyphen"/>neſday) the 14 day, in Auchtertuil and Clackmannan 15 day, at Strathaven 16 day, Scoon the 16, 17, 18 dayes, with a weekly mercat every thurſday. A fair at the Burgh of Annan, the third tueſday of June, S. Margaret in Dumfermling and at Moffat 18 day, in which place there is a weekly mercat every friday, Earlestoun 19 day. Monro his fair holden at Colrain in Roſs-ſhire the 20 day, Methil, near Leevens-mouth 22 day, Midſummer day in Forres the 24 day, and at Townyettam on the Border, the 24 day of Horſe, Neat, and Sheep, &amp;c. with a weekly mercat. In Alathy in Angus, called S. Emagola, and at the town of Nicolſon the 25 day. S. Peters day at Forfar 26 day, holding four dayes. As alſo in Faulkland, Bruntiland, Bamff, Kelſo, 26 day, Galaſhiels 27 day, in Peebles 29 day, S. Sheriff fair the laſt tueſday of this moneth, S. John Baptist day a fair in Fraſerburgh 24 day.</p>
+            </div>
+            <div type="part">
+               <head>xxxi. July begins on Munday.</head>
+               <list>
+                  <item>
+                     <hi>Laſt quarter</hi> 1 <hi>d.</hi> 31 <hi>min. paſt</hi> 1 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>New moon</hi> 8 <hi>d.</hi> 11 <hi>min. paſt</hi> 5 <hi>in the afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter</hi> 16 <hi>d.</hi> 20 <hi>min. paſt</hi> 8 <hi>at night.</hi>
+                  </item>
+                  <item>
+                     <hi>Full moon</hi> 23 <hi>d.</hi> 38 <hi>min. paſt</hi> 5 <hi>afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter</hi> 30 <hi>d.</hi> 37 <hi>min. paſt</hi> 9 <hi>in the morning.</hi>
+                  </item>
+               </list>
+               <pb facs="tcp:180093:5"/>
+               <p> 
+                  <hi>The firſt xi dayes exceeding hot; from the xi to the xviii ſome thunder and rain; thence to the end calm and clear, with ſome ſhowres.</hi>
+               </p>
+               <p>A fair at Edzerstoun in Teviotdale the 1 day of this mo<g ref="char:EOLhyphen"/>neth. A fair in the Stow, the firſt day of this moneth, holding 2 dayes, in Culroſs the 1 day, Abernethy and Auchtermuchty 2 day. S. Martine of Bulzeon 4 day, S. Thomas 5 day, S. Paladius in Forden in the Mernes 6 day. S. Andrew in Glaſgow the 7 day, a fair in the Burgh of Annan the ſecond tueſday of this moneth, in Kilwin. the 12 day, the 13 S. Margaret in Killi<g ref="char:EOLhyphen"/>mure, 6 dayes at the kirk of Forrig, the third tueſday in this moneth: Moffat and at Kirkaldy, a fair of Horſe, Neat, and Sheep, <hi>&amp;c.</hi> the 18 day, a fair in Stirling the 20 day, Magda<g ref="char:EOLhyphen"/>lene day in Lawder 22 day, with a weekly mercat every Fri<g ref="char:EOLhyphen"/>day, Mary Magdalene in Linlithgow, Petenweem, and Path-bead 22 day, in Airth the 24 day, S. Chriſtina in Corſtorphine a fair the ſame 24 day, S. James in Forfar, Cowper of Fife, Lanerk, and Roxburgh, Kinghorn, Alloway, Elgin in Murray, and in Muſſelburgh the 25. Pollinar fair in Inverury, and Lam<g ref="char:EOLhyphen"/>bas fair in Turref both on the laſt tueſday. The laſt thurſday of July a fair in Leſly, and at White-horn two dayes.</p>
+            </div>
+            <div type="part">
+               <head>xxxi. Auguſt begins on Thurſday.</head>
+               <list>
+                  <item>
+                     <hi>New moon</hi> 7 <hi>d.</hi> 14 <hi>min. paſt</hi> 8 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter</hi> 15 <hi>d.</hi> 28 <hi>min. paſt</hi> 8 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Full moon</hi> 22 <hi>d.</hi> 3 <hi>min. before</hi> 1 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter</hi> 28 <hi>d.</hi> 26 <hi>min. paſt</hi> 9 <hi>at night.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>This moneth begins with ſome ſhowres, till the viii day; thence to the xii ſeaſonable weather; from the xii to the xvi windy; the reſt of the moneth good Harveſt weather.</hi>
+               </p>
+               <p>Lambaſday in Atturfe 3 dayes<g ref="char:punc">▪</g> long and in Melrois, Enner<g ref="char:EOLhyphen"/>keithing, S. Andrews, and in Dumbartan the 1 day, Lawrence fair in Rane the firſt tueſday, and thurſday after in Faulkland, in Kilſyth 5 day, in Meiklour the 7 day, S. Lawrence in Selkirk, Auchtermuchty and in Forres 10 day, in Rane 2 dayes before Kil<g ref="char:EOLhyphen"/>mahug, and at the burn of Campſie, Lady day in Dundee, Bamff,
+<pb facs="tcp:180093:6"/> Mernes, Vallefield, the 15 day, the 20 day a fair at Rugland 4 dayes, the 22 a fair at Scoon 3 dayes, with a weekly mer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at every thurſday, S. Colms in Drymen the 23 Bartholemew A<g ref="char:EOLhyphen"/>poſtle in Linlithgow, Kincarn of Neil, and in Clakmannan, and Peebles the 24 day, S. Zephirinus in Corſtorphine the 26 day a fair. Samarevis day in Forres 27, and S. Iohns day in St. Johnſtoun and in Lawder the twentie ninth day.</p>
+            </div>
+            <div type="part">
+               <head>XXX. September begins on Sunday.</head>
+               <list>
+                  <item>
+                     <hi>New moon</hi> 6 <hi>d.</hi> 29 <hi>min paſt</hi> 1 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter</hi> 13 <hi>d.</hi> 45 <hi>min. paſt</hi> 6 <hi>at night.</hi>
+                  </item>
+                  <item>
+                     <hi>Full moon</hi> 20 <hi>d.</hi> 22 <hi>min. paſt</hi> 9 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter</hi> 27 <hi>d.</hi> 12 <hi>min. paſt</hi> 1 <hi>afternoon.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>The firſt ten dayes pleaſant Harveſt weather, then<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e to the middle of the moneth fair and clear; the reſt of the moneth variable.</hi>
+               </p>
+               <p>Saint Gilles in Elgin 1 day, in Moffat 2 day, in Skirlin 4 d. Latter Lady day in Stirling, Dundee, and Bamff 8 day, Rude day in Carill, Jedburgh, Dumfermeling, Dumfries, and Athel<g ref="char:EOLhyphen"/>ſton 24 day, at Longnewton 25 day, in Auchtertuil and Salan the 11 day, a fair at Forfar the 15 day, holding eight dayes. A fair at Kirkaldy of Horſe, Neat and Sheep, <hi>&amp;c.</hi> the 20 day. A fair in the Stow 23 day, with a weekly mercat every fri<g ref="char:EOLhyphen"/>day, Mat. Apoſtle in Linlithgow 21 day, a fair at Colrain in Roſs-ſhire called S. Georgies fair 25 day. A fair at Leeven &amp; at Nicolſon the 27 day, a fair at Tranent the ſame day with a weekly mercat every Saturday. S. Michael in Haddington, Leſlie, Air, S. Andrews, Crief, Kirkud bright, Gallaſhiels, &amp; at the Kirk of Forrig the 29 day. A fair at the Burgh of Annan, the ſame day, S. Jerome in Bamff the laſt day. A fair at Du<g ref="char:EOLhyphen"/>rie the 27 day of this moneth, with a weekly mercat.</p>
+            </div>
+            <div type="part">
+               <head>xxxi. October begins on Tueſday</head>
+               <list>
+                  <item>
+                     <hi>New moon</hi> 5 <hi>d.</hi> 18 <hi>min paſt</hi> 5 <hi>in the afternoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter</hi> 13 <hi>d.</hi> 22 <hi>min. paſt</hi> 3 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Full moon</hi> 19 <hi>d.</hi> 1 <hi>min paſt</hi> 8 <hi>at night.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter</hi> 27 <hi>d.</hi> 22 <hi>min. paſt</hi> 8 <hi>in the morning.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>This moneth begins with raw froſt to the x day, from the x to the xx rain now and then, thence to the en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wind and froſt.</hi>
+               </p>
+               <pb facs="tcp:180093:6"/>
+               <p> The 1, 2, 3 dayes a fair in Salt-Preſton: a fair in Middle-Calder, the first tueſday of this moneth. S. Francis in Aber<g ref="char:EOLhyphen"/>nethy and Valley-field 4 day in Meiklour the 5 day, at Edezr<g ref="char:EOLhyphen"/>ſtoun in the border 2 miles from the Red-ſquire 5 day. in Cowper of Fife the 6 day, a fair at the town Lon-head of Leſſwaid the 8 day, Dioniſe in Peebles, Earleſton, Kirkintilloch, Aiton, Auchtermuchty, Ceres in Fife, in Killimure, Moffat the 9 day, Dalkeith, and Tillibole 10 day, at Ennerkeithine and Strait<g ref="char:EOLhyphen"/>haven the 12 day. Fenduck at Dunning 13 day, in Forgonden<g ref="char:EOLhyphen"/>nie and Drymen the 15 day, at Muſſelburgh the 16 day. S. Luke in Lawder, Kinroſs and Rugland 18 day, Townyettam on the Border 20 day of horſe, neat and ſheep, <hi>&amp;c.</hi> with a weekly mer<g ref="char:EOLhyphen"/>cat. S. Irena in Corſtorphine and at the Kirk of Carlouck 20 day with a weekly mercat every wedneſday, Mary Salamine in Stir<g ref="char:EOLhyphen"/>ling and Kelſo 22 day, a fair at Forfar 24 day, holding 8 dayes, in Linlithgow 24 in Kilrenie and Stramiglo 25. Fowles fair in Paſley, and Falkirk 26 day, Simon and Jude in Roſtine, (with a weekly mercat everie Saturday) Dyſert, Falkirk, Coc<g ref="char:EOLhyphen"/>kany, and at Kirkliſtoun 28 day, in Alloway and at Nicolſon the 29 day. The laſt thurſday of this moneth, a fair in White-horn, holding two dayes.</p>
+            </div>
+            <div type="part">
+               <head>xxx. November begins on Friday.</head>
+               <list>
+                  <item>
+                     <hi>New moon</hi> 4 <hi>d.</hi> 38 <hi>min. paſt</hi> 8 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter</hi> 11 <hi>d.</hi> 54 <hi>min paſt</hi> 10 <hi>in the forenoon.</hi>
+                  </item>
+                  <item>
+                     <hi>Full moon</hi> 18 <hi>d.</hi> 1 <hi>min. paſt</hi> 9 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter</hi> 26 <hi>d.</hi> 20 <hi>min. paſt</hi> 7 <hi>in the morning.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>This moneth begins with froſt and ſnow to the vii day; the viii ix and x thaw; thence to the xvi froſt; the reſt of the moneth kindly winter weather</hi>
+               </p>
+               <p>Hallowday in Edinburgh 8 dayes, in Faulkland, Dumblane, Fordyce 1 day, in Alathie 2 dayes, in Kilwinning 3 day, Leo<g ref="char:EOLhyphen"/>nard in Lanerk, in Forres and in Largo the 6 day, alſo there is a weekly mercat in Largo every friday, S. Matth. in Dumbar Melrois, Martins-Kirk, Strabogie, Cowper of Fife, Hamilton, Culroſs, Killmahug 11 day, a fair at Kilſyth the 12 day. S. Cle<g ref="char:EOLhyphen"/>ment in Dundee, 13 day, S. Helins day at Grinock 15 day, afair at Doun in Monteith 15 day, Margretmaſs in Dumfermeling &amp; Lawder 16 day, S. Mucharmuch in Tane and Auchtertuil 22. Bruntiland 23, S. Andrew in S. John<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Peebles, and Chirnſide 30 day.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:180093:7"/>
+               <head>xxxi. December begins on Sunday.</head>
+               <list>
+                  <item>
+                     <hi>New moon</hi> 3 <hi>d.</hi> 40 <hi>min paſt</hi> 11 <hi>at night.</hi>
+                  </item>
+                  <item>
+                     <hi>Firſt quarter</hi> 10 <hi>d.</hi> 45 <hi>min. paſt</hi> 7 <hi>at night.</hi>
+                  </item>
+                  <item>
+                     <hi>Full moon</hi> 18 <hi>d.</hi> 32 <hi>min. before</hi> 1 <hi>in the morning.</hi>
+                  </item>
+                  <item>
+                     <hi>Laſt quarter</hi> 26 <hi>d.</hi> 46 <hi>min. paſt</hi> 2 <hi>in the morning.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>This moneth begins roughly to the x day, thence to the xviii black froſt; from the xviii to the xxiii cold eaſterly winds; the year is likely to end with froſt and ſnow.</hi>
+               </p>
+               <p>S. Nicholas in Aberdeen 7 day, Lady day in Weſt-weems 8 day, S. Duſtane in Bamff and at the Kirk of Diere 14 day, S. Cuthbert in the Grange, within the Sheriffdom of Linlithgow, the 7, 8 Day. The 14 day a fair at Durie, with a weekly mercat. S. Thomas in Glaſgow the 15 day, a fair at Dounin Mon teith 15 day, S. Johns day in Bamff, Forres, Methil near Leevens mouth 17 day.</p>
+            </div>
+         </div>
+         <div type="text">
+            <head>A brief and eaſie Table of the Tydes, be<g ref="char:EOLhyphen"/>twixt Buchan-neſs and the Skare-heads.</head>
+            <p>AT Buchan-neſs, at the Change of the Moon, or Height, it is full Sea at 12 hours. At Aberdeen, 12 hours and 3 quar<g ref="char:EOLhyphen"/>ters: at Stonhyve, Montroſs, Barwick and Holy-Yland, it is full Sea at 2 hours &amp; a quarter: at Broughtie, Dundee, Leith and Brunt-Yland, at a quarter paſt 2 a clock: at the Yle of May, Queens-Ferrie, and Fairn-Yland, at 3 a clock: at Preſton Panns, and ſo alongs the coaſt of Dumbar, at 3 a clock, <hi>&amp;c.</hi>
+            </p>
+            <div type="part">
+               <pb facs="tcp:180093:7"/>
+               <head>
+                  <hi>The whole Fairs of the Kingdom of</hi> Scotland.</head>
+               <p>
+                  <hi>April, S.</hi> Mark the Evangeliſts fair, into the town of Dyſert, in Fiffe ſhire, on the 23 day, belonging to the Noble Earle of Weems Belran-day the firſt, on the 26 day. a fair at Rugland, on the 28 d. continuing 4 dayes. a fair at Leven, the 29 day: a fair at Kilreny in Fiffe ſhire on the 30 day.</p>
+               <p>
+                  <hi>May, S.</hi> Phillip in the Grange, within the ſhire of Linlithgow, alſo, a fair at the new kirk of Kilpatrick, both on the 1 day, Holy croſs fair on the 2 day: Beltan fair into the town of Monroſs, into Angus ſhire: and at Kinrocher, and Peebles: alſo s. Congalls <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>air at the kirk of Doors, in Mearns ſhire, all on the 3 day Fumuk fair at Fumuck-kirk, into the pariſh of Pittrifnie, within the ſhire of Bamff, on the 3 day, belonging to Iames Anderſon, Laird of Waſterton: a fair at Ranfrew the 9 d. a fair at Carlouk, and at Drymen in the Lennox, both on the 10 d. B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>andon fair at Bamff, and a fair into the town of Kirkaldy in Fiffe ſhire, both the 16 day.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Markets or Fairs, whiles in</hi> May, <hi>and whiles in</hi> Iune.</head>
+               <p>A mercat into the town of Stirling, ten days before Whitſunday Whitſundays mercat into the town of Stonhyve, into the Shire of the mearns, upon tueſday before Whitſunday Aſcention-day at the Burgh of Annan. Whitſunmundays mercat in Glaſgow, Dum<g ref="char:EOLhyphen"/>bartan, Lanerk, and Iedburgh a ſpecial mercat into the town of Borrowſtonneſs, within the ſheriffdom of Linlithgow, on tueſday after Whitſunday, belonging to his Grace, my Lord Duke Ham<g ref="char:EOLhyphen"/>milton a mercat alſo into the town of Linlithgow, and at Dum<g ref="char:EOLhyphen"/>blain, both on the ſame day. Whitſun tueſday called Pardon-day at Chantie, in Roſs-ſhire, and at the kirk of Ninians above Kirk<g ref="char:EOLhyphen"/>aldy. Trinitie mundays mercat at Edenburgh, and at the town of Briechen, into the ſhire of Angus, holding 8 days. Trinity-mun<g ref="char:EOLhyphen"/>days mercat into the town of st. Andrews, and Brunt<g ref="char:punc">▪</g>Yland, both into Fiffe ſhire, one day Trinitie tueſday in Rugland, Trinitie thurſday in Falkland, both laſting two daies. Whitſundaies mer<g ref="char:EOLhyphen"/>cat upon the moor of Dun, within the ſhire of Angus, upon the ſecond wedneſday after Whitſunday, continuing the whole week, and belongeth to the right honorable, the Laird of Dun <hi>Iune,</hi> A mercat ar Kinroſs, the firſt tueſd. in Long-newton 5 d. Ber<g ref="char:EOLhyphen"/>nard mercat 2 tueſd. a mercat at Monifeeth, into the ſhire of An<g ref="char:EOLhyphen"/>gus 2 tueſd. belonging to the right honorable, Sir Iames Maul o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Balumbie. s. Colms mercat in Stramiglo, Aberdour, and Enner<g ref="char:EOLhyphen"/>kiething 6 d. at Drymen 9 d. in Forgondeny 10 d. s. Barnabie in Lawder, Dyſert, Dowglas, s. Lawrence in Grinnock, and at Preſ<g ref="char:EOLhyphen"/>ton-pans,
+<pb facs="tcp:180093:8"/> and at Dirleton, all upon the 11 d. s. Margaret in Aber<g ref="char:EOLhyphen"/>nethy, &amp; Ceres in Fiffe both on the 13 d. Mid-ſummer on s. Iohns day, in St. Iohnſton holding 5 dayes, and in Aire 4 dayes, at Wig<g ref="char:EOLhyphen"/>ton, Bamff, Athelſton, and at Mieklour in Pearth-ſhire, all upon the 14 d. at Auchtertuile, and Clackmannan, and at Bocklyvie, in the pariſh of Kippen, all on the 15 d. a fair into the town of Scoon in Pearth-ſhire on the 15 d<g ref="char:punc">▪</g> holding 3 dayes, beginging on tueſday therafter, belonging to the right noble the Viſcount of Stormonth. at Strathaven, the 16 d. at the burgh of Annan the 3 tueſd. s. Mar<g ref="char:EOLhyphen"/>garets fair at Dumfermling, and at Moffat the 18 d. at Earleſton the 19 d. Monro's mercat holden at Colrain in Roſs-ſhire, the 20 d at Methil, near Levens mouth the 22 d. Midſummer in Forres, in Murray-ſhire, and in Hawick, and at Townyettam on the border, all on the 24 d. at Alathie in Angus-ſhire, called s. Emagola, and at the town of Nicolſon, both on the 25 d. s. Peters mercat at the town of For far in Angus-ſhire holding 4 dayes, and in Falkland, and Brunt-Yland, both in Fiffe ſhire, and at Bamff, and Kelſo, all on the 26 d at Gallaſhiels the 27 d and in Peebles the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9 d. Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er mercat at Migell in Pearth ſhire, belonging to the right honorable the Laird of Foulerton of that Ilk: and alſo at Haddington, both on the laſt day, if it fall not upon ſunday.</p>
+               <p>
+                  <hi>Iuly,</hi> A mercat at Curoſs, and at Stow the 1 d. at Abernethie, and Auchtermuchtie, 2 d. s. Martin of Bulzeon, 4 d. <hi>ſed ubi neſcio.</hi> a new mercat into the good town of Dundee firſt tueſd. s. Thomas in Langnewton 5 d. Padie mercat at the kirk of Forden, in Mearns ſhire 6 d. s. Andrew's mercat at Glaſgow, and at Innerneſs the 7 d. and at bonnie Borrowſtonneſs, into the ſhire of Linlithgow 2 tueſ. belonging to his Grace, my Lord Duke Hammilton. at the burgh of Annan the ſame day. s. Lawrence at Grinnock 11. d. at Kilwin<g ref="char:EOLhyphen"/>ning 12 d. s. Margaret in Killimure, into the ſhire of Angus, and at the kirk of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g, both on the 13 d. in Moffat, and at Kirkaldy both on the 18 d. at Stirling 20 d. Mary Magdalen into Lawder, Linlithgow, Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tenweem, and Path-head, all on the 22 d, in Airth, and s. Chriſtiana in Corſtorphine both the 24 d. s. Iames at Forfar in Angus ſhire, at Kinghorn, &amp; Cowper, both in Fiffe ſhire, and at Lanerk, Roxburgh, Alloway, Muſſelburgh, and into Elgin in Mur<g ref="char:EOLhyphen"/>ray ſhire, all on the 25 d. an excellent new fair at Kinloch Ranoch in Athol, into Pearth ſhire belonging to the right worſhipful <hi>Al<g ref="char:EOLhyphen"/>lexander Robertſon of S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rowan,</hi> the laſt tueſd. at Whithorn ſame day <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Auguſt,</hi> Lambsday in Atturff, Melrois, Ennerkiething, s. An<g ref="char:EOLhyphen"/>drews,
+<pb facs="tcp:180093:8"/> and into Dumbartan, all on the 1 d. at Falkland 1 thu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſd. Lawrence fair in the Mearns ſhire upon Lawrence moor, a little <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bove the p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace of Hawkerton, upon the 2 tueſday, holding four <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hole dayes, and belongs to my Lord Hawkerton. at Iedburgh the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thurſd. at Kilſyth 5 d. s. Lawrence at Solkirk, Auchtermuchtie, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orres, and Cranwath, and at Dumblane, all on the 10 d. Ladie-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay the firſt, at Dundee, 15 d. at Bamff, Mearns, Wallayfield, and Marimaſs fair in Innerneſs, all on the 15 d. at Rugland, 20 d. an<g ref="char:EOLhyphen"/>other good fair into the town of Scoon, in Pearth-ſhire, upon the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2 day, holding 3 days, belonging to the right noble Viſcount of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tormonth, with a weeklie mere at s. Bartholomew in Linlithgow, Clackmannan, and at Peebles, all on 24 d. s. Zephirinus in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orphin 26 d Semarivis fair in Forres 27. d. s. Iohns fair in S. Iohn<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, and at Lawder both on the 29 day.</p>
+               <p>
+                  <hi>September,</hi> s. Giles fair in Elgin 1 d. Semarivis fair in Kieth the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irſt tueſd. latter Ladie day in Dundee 8 d. a fair at Stirling, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Bamff, the 8 d. at Auchtertuil, and Salane 11 d. Rood fair into Innerneſs, and at Iedburgh, 14 d. at Forfar 15 d. holding 8 days. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Monans</hi> at the kirk of Doors, in Mearns ſhire, 3 tueſd. belonging <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <hi>Sir Alexander Fraſer.</hi> at Kirkaldie 20 d Rude fair in Caril, Ied<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urgh, Dumfermling, Dumfries, and Athelſton all on the 24 d. s. George at Colrain in Roſs ſhire, 25 d. at Tranent 27 d. s Michael <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Haddington, Air, s. Andrews, Crief, Kirkubright, Gallaſhiels, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd at the kirk of Forrig, and Ranfrew, and at the burgh of An<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an, all on the 29 d. s. Ierom in Bamff the<g ref="char:cmbAbbrStroke">̄</g> laſt d.</p>
+               <p>
+                  <hi>October, A</hi> fair at Salt Preſton firſt 3 daies, at Dundee firſt tueſd. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Kinloch Rannock in Athol, with in the ſhire of Pearth, firſt tueſ. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lſo, belonging to the right worſhipfull, <hi>Alexander Robertſon of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rowan.</hi> at Cowper in fiffe ſhire 6 d. at the kirk town of Monifeeth <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Angus ſhire, the ſecond tueſd. belonging to the right hono<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able <hi>Sir Iames Maul of Ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umbie,</hi> s. Dioniſe in Peebl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, Earleſton, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irkintilloch, Aiton, Auchtermuchtie, Ceres in fiffe ſhire, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t Killimure in Angus ſhire, alſo at Moffat, and s. Dinne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> own of St. Iohnſton, all on the 9 d. at Dalkieth, and at Tilliboll. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o d. at Ennerkiething, and at Strathaven 12 d a fair at Borrow<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onnes, into Linlithgow ſhire, the 16 d. belonging to his Grace, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y Lord Duke Hammilton. and at Muſſelburgh, the ſame 16 d. Luke in Lawder, Kinroſs, and at Rugland, 18 d. at the new kirk <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f Kilpatrick 21 d. Marie Salamin in Stirling, and at Kelſo, 22 d. the town of Forfar, in Angus ſhire, holding 8 daies, the 24 d.
+<pb facs="tcp:180093:9"/> at Linlithgow, the 24 d. Fowls fair i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Paſley, and at the town <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Falki<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k, 26 d Simon and Iude into Dyſert, in fiffe ſhire, belong<g ref="char:EOLunhyphen"/>ing to the noble Earle of Weems, and at Cockan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Kickliſto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hawick, Migell in Pearth ſhire, and at Roſline, all the 28 d. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Alloway, and Nicolſon 29 d. at Whithorn the laſt thurſd.</p>
+               <p>
+                  <hi>November,</hi> Hallow day in Edinburgh, and at Falkland, Du<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>blane, and Fordice, all the firſt d. at Alathie 2 d. at Kilwinnin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the 3 d. at Iedburgh firſt tueſd. s. Leonard into Lanerk, Forres, at Largo, all the 6 d. Martinmas fair in Innerneſs 10 d. s. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> into Dumbar, Melrois, Martins<g ref="char:punc">▪</g>kirk, Cowper in fiffe ſhire, H<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>milton, Culroſs, and at Kilmahug, all on the 11 d. Martin<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fair at Stonhive in the mea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns ſhire, on tueſd. before martin<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> at Kilſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th 12. d. s. Clemens in Dundee, 13 d. s. Helen at Gri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and at Doun in Montieth, the 15 d. Margaretmaſs into Dum fern<g ref="char:EOLunhyphen"/>ling, and Lawder, the 16 d and at Borrowſtonnes, into the ſhi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Linlithgow, the ſame 16 d. belonging to his Grace, my Lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Duke Hammilton s. M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>charmuch in Tain, and Auchtertuil, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 22 d. at Brunt. Yland 23 d. s. Andrew into st. Iohnſton, in Pe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſhire, and at Peebles, and Chirn-ſide, the laſt day.</p>
+               <p>
+                  <hi>December. A</hi> Fair at Ranſrew the 6 d. Ladie-day in We<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Weems, belonging to the noble Earle of. Weems, the 8 d. at B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and at Rothe may, both the 14 d. s. Thomas at Glaſgow, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Do<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in Montieth, the 15 d. s. Cuthbert in the Grange, into ſhire of Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ltihgow, the 17 d. s. Thomas in Innerneſs the 20. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Iohn's ſair in B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mff, Forres, and at Mothill, near Levens mou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all upon the 27 day.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Advertiſement,</head>
+            <p>Thus my loving Countrey-men, you have the fairs of our anti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kingdom of <hi>Scotland,</hi> ſet down to you more promptly and plain, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ever they were before; And as our Nobility and Gentrie, within t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Nation, (who are therein Concerned) doeth give me Yearly m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> information, you ſhall receive the ſame from my hands, into our <hi>Ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ens</hi> yearly Almanac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s (which I hope are the exacteſt of any) af<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a moſt plain way, whereby any perſon, may travell through our Kin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dom, to any of theſe Fairs with great eaſe I doubt not but there are m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ny more Fairs then are here inſert, and therefore humblie deſires, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Noblemen, and Gentlemen, to ſend me a perfect Note of their Fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and weeklie merca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, with their Tyeles and Deſignations, as alſo w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Shire, Town or Pariſh they are into, and ſo I ſhall [according to th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Generoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie] be alwayes moſt carefull of their Concerments.</p>
+            <trailer>Ergo, FINIS, pro Tempore.</trailer>
+            <pb facs="tcp:180093:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
